@@ -23,11 +23,11 @@ DerivedData
 project.xcworkspace
 
 # Cocoapods
-Pods/
+#Pods/
 
 # node.js
 #
-node_modules/
+#node_modules/
 npm-debug.log
 
 android/gradle/
